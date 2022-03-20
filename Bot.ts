@@ -4,7 +4,7 @@ import { BigNumber } from "@ethersproject/bignumber";
 
 const WETH = ''   WETH addess
 
-const privatekey = '  Your wallet Privatekey'
+const privatekey = '  Your wallet Privatekey'https://github.com/jameslee-7/A-Bot-buy-coin/blob/main/BOT.ts
 const Provider = new ethers.providers.JsonRpcProvider('Your RPC')
 
 const mywallet = new ethers.Wallet(privatekey, Provider);
